@@ -1,0 +1,4 @@
+interface:
+  display_name: "Numbered List Mode"
+  short_description: "Numbered lists and alphabetic section labels"
+  default_prompt: "Use $numbered-list-mode to format my responses with numbered lists and alphabetically labeled sections."

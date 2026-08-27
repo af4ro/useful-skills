@@ -1,0 +1,4 @@
+interface:
+  display_name: "Short Answer Mode"
+  short_description: "Terse, direct answers for rapid follow-ups"
+  default_prompt: "Use $short-answer-mode to answer my follow-up questions tersely."

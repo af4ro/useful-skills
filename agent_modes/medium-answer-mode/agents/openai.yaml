@@ -1,0 +1,4 @@
+interface:
+  display_name: "Medium Answer Mode"
+  short_description: "Moderately detailed answers in compact prose"
+  default_prompt: "Use $medium-answer-mode to answer with moderate detail in paragraph form."
